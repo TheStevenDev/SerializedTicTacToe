@@ -1,10 +1,5 @@
 
 <html>
-<head>
-  <style>
-    /* Add your custom styles here */
-  </style>
-</head>
 <body>
   <h1>Tic-Tac-Toe in Java against Bot</h1>
   <h2>Features</h2>
