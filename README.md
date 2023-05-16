@@ -36,8 +36,5 @@
   <p>After finishing a game, you have the option to replay it. This allows you to analyze your moves and strategies.</p>
   <h2>Save/Open Games</h2>
   <p>You can save your current game or open a previously saved game using serialization. This feature allows you to continue a game at a later time.</p>
-  <h2>License</h2>
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-  <p>Feel free to contribute and enhance the game!</p>
 </body>
 </html>
