@@ -1,7 +1,6 @@
 
 <html>
 <head>
-  <title>Tic-Tac-Toe in Java against Bot</title>
   <style>
     /* Add your custom styles here */
   </style>
