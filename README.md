@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Tic-Tac-Toe in Java against Bot</title>
